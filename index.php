@@ -68,6 +68,7 @@ if (!empty($_SESSION['activa'])) {
             <h1 style="color: #2a1611">Yahir Antonio Lazcano Garita </h1>
             <h1 style="color: #2a1611">Oscar </h1>
             <h1 style="color: #2a1611">Miriam </h1>
+            <h1 style="color: #2a1611">Miriam2 </h1>
 
             <form style="padding:55px;" method="POST">
                 <div>
